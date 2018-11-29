@@ -1,0 +1,46 @@
+.header {
+
+	h1 {
+		padding-top: 50px;
+		padding-bottom: 20px;
+	}
+}
+
+.sub-header {
+	h4 {
+		padding-bottom: 50px;
+	}
+}
+
+.bg-light {
+	background-color: #fff!important;
+}
+
+	.justify-content-center {
+		padding-top: 200px;
+		padding-bottom: 200px;
+
+	}
+
+.menu-container {
+
+	border-bottom: 2px solid #efefef;
+
+}
+
+.threeup-section {
+	background-color: #F0F0F0;
+	padding-bottom: 50px;
+}
+
+.threeup-image-container {
+    transition-property: max-width;
+    transition-duration: 0.2s;
+    box-sizing: border-box;
+    max-width: 55em;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+}
